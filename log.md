@@ -1,22 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: December 7th 2023
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked in a JavaScript Domain generator project, I added a shuffle function to a list generator. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I really struggled with JavaScript, that's why I wanna keep working on it. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:**  (https://github.com/dkfmedia/Domain-name-generator)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: December 8th 2023
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Created basic HTML site, that's supposed to change the background color everytime the "Generate" button is clicked. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I thought it was working flawlessly, however the JavaScript portion was not really working, tried to make changes to it and when trying to do git push I received an issue. Let's try again tomorrow.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
 
 
 ### Day 1: June 27, Monday
